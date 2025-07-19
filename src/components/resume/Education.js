@@ -15,7 +15,7 @@ const Education = () => {
           subTitle="Sri Lanka"
           descriptions={[
             "Bachelor of Computer Science and Engineering",
-            "GPA: 3.70"
+            // "GPA: "
           ]}
         />
         <ResumeCard
@@ -24,7 +24,7 @@ const Education = () => {
           subTitle="Colombo-4, Sri Lanka"
           descriptions={[
             "G.C.E A/L Mathematics Stream - 3As",
-            "Z-Score: 2.420"
+            // "Z-Score: 2.420"
           ]}
         />
         <ResumeCard
