@@ -1,7 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio website, created as a submission for the FestX WebX competition. This project showcases my skills, projects, and contact information.
-
+This is my personal portfolio website, created as a submission for the FestX WebX competition. 
 ![Portfolio](https://github.com/user-attachments/assets/264cca70-1786-42be-8355-5d61cdf5f67c)
 
 ## Technologies and Tools
